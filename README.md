@@ -1,7 +1,7 @@
 <h1 align="center"> Doge Robot </h1> 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO!&color=YELLOW&style=for-the-badge"/></p>
 
-<h1 align="center"> :heavy_check_mark: </h1>
+<h1 align="center"> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </h1>
 <p align="center"> Linguagem utilizada: Shell Script <p>
 <p align="center"> Autor: Joe Martins de Pontes
 
