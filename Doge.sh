@@ -30,7 +30,7 @@ start_case(){
                 if [  $OK == "1"  ]; then
                     nmap $HOST -T5 -oX $HOST_result.xml && sudo apt install xsltproc && xsltproc $HOST_result.xml -o $HOST-SCAN.html && rm *SCAN.xml
 
-                    HOSTScan=("Scan em $IPHOST foi finalizado." "O escaneamento de portas em $IPHOST foi concluído!" "$IPHOST terminou de ser escaneado." "O scan do Nmap no $IPHOST foi finalizado.")
+                    HOSTScan=("Scan em $HOST foi finalizado." "O escaneamento de portas em $HOST foi concluído!" "$HOST terminou de ser escaneado." "O scan do Nmap no $HOST foi finalizado.")
 
                     echo -e "➤ ${HOSTScan[$((RANDOM%4))]}"
 
