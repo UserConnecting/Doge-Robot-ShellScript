@@ -18,17 +18,3 @@ O robô Doge pode te dizer se ele namora, mostrar informações do Apache, dizer
 * O foco deste programa é para uso acadêmico, nenhuma de suas funcionalidades deve ser utilizada para afetar ambientes externos.
 O autor não se responsabiliza pelo uso indevido.
 
-
-<p>⠀⠀⠀⠀⠀⠀⠀⢰⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⡘⠀⢣⠀⠀⠀⠀⠀⠀⣀⠴⠁⠀⠇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢠⣇⠀⠐⠋⠒⠒⠒⠢⠐⠁⠀⡤⠀⢆⠀⠀⠀⠀
-⠀⠀⠀⠀⢠⠔⠉⠀⠀⠀⠀⠀⠀⠀⠀⠐⢄⠈⠁⠀⡌⠀⠀⠀⠀
-⠀⠀⠀⠰⠁⠠⣤⡄⠀⠀⠀⠀⡀⠀⠀⠀⠀⠉⠂⢰⠳⡀⠀⠀⠀
-⠀⠀⢀⠇⠀⢘⡿⠃⠀⠀⠰⢿⡿⠇⠀⠀⠀⠀⠀⠈⠀⡇⠀⠀⠀
-⠀⠀⡜⢀⣴⣿⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⠀⠀
-⠀⠀⡇⠸⣽⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀
-⠀⠀⢱⠀⠘⡿⠶⠤⠤⠤⠴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡀⠀
-⠀⠀⠈⢆⠀⠈⠒⠒⠒⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀
-⠀⠀⠀⠸⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</p>
