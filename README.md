@@ -2,7 +2,7 @@
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO!&color=YELLOW&style=for-the-badge"/></p>
 
 <h1 align="center"> :heavy_check_mark: </h1>
-<p align="center"> Linguagem utiliada: <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <p>
+<p align="center"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <p>
 <p align="center"> Autor: Joe Martins de Pontes
 
 
