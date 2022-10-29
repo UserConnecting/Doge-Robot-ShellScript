@@ -7,7 +7,7 @@
 
 
 <h1 align="center"> :speech_balloon: Descrição </h1>
-Robô Doge que realiza algumas tarefas que pedir para ele.<br></br>
+O robô Doge realiza algumas tarefas e te mostra as informações que forem solicitadas.<br></br>
 
 <h1 align="center"> 🚀 Funcionamento </h1>
 
