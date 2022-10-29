@@ -19,8 +19,7 @@ O robô Doge pode te dizer se ele namora, mostrar informações do Apache, dizer
 O autor não se responsabiliza pelo uso indevido.
 
 
-
-⠀⠀⠀⠀⠀⠀⠀⠀⢰⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀
+<p>⠀⠀⠀⠀⠀⠀⠀⢰⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡘⠀⢣⠀⠀⠀⠀⠀⠀⣀⠴⠁⠀⠇⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⣇⠀⠐⠋⠒⠒⠒⠢⠐⠁⠀⡤⠀⢆⠀⠀⠀⠀
 ⠀⠀⠀⠀⢠⠔⠉⠀⠀⠀⠀⠀⠀⠀⠀⠐⢄⠈⠁⠀⡌⠀⠀⠀⠀
@@ -32,3 +31,4 @@ O autor não se responsabiliza pelo uso indevido.
 ⠀⠀⠈⢆⠀⠈⠒⠒⠒⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀
 ⠀⠀⠀⠸⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</p>
