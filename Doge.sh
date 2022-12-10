@@ -70,7 +70,7 @@ start_case(){
 
         *criador*|*desenvolv*|*criou*|*criado*)
 
-                Owner=('Fui feito pelo Joe RM93410.' 'Meu criador é o Joe RM93410.' 'Joe RM93410 foi quem me criou.' 'O Joe RM93410 me desenvolveu.')
+                Owner=('Fui feito pelo Joe.' 'Meu criador é o Joe.' 'Joe foi quem me criou.' 'O Joe me desenvolveu.')
                 echo -e "➤ ${Owner[$((RANDOM%4))]}"
 
                 Ask
