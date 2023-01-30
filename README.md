@@ -3,7 +3,7 @@
 
 <h1 align="center"> :heavy_check_mark: </h1>
 <p align="center"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <p>
-<p align="center"> Autor: Joe Martins de Pontes
+<p align="center"> Autor: Joe Martins
 
 
 <h1 align="center"> :speech_balloon: Descrição </h1>
